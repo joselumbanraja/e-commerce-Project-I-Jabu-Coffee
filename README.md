@@ -2,7 +2,7 @@
 
 Welcome to the Ijabu Coffee E-commerce project, a website designed to make it easier for the Balige community to order a variety of exciting food and beverages.
 
-This project is built using JavaScript, PHP, and Laravel, leveraging a robust and stable framework for modern web application development.
+This project is built using PHP, Boostrap, and Css , leveraging a robust and stable framework for modern web application development.
 
 ## User Page Features: 
 
