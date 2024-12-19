@@ -36,7 +36,7 @@ This project is built using PHP, Boostrap, and Css , leveraging a robust and sta
 
 *2*. Install Dependencies: Install all required dependencies as per the instructions provided.
 
-*3*. Configuration: Customize the configuration files according to your church's needs and preferences.
+*3*. Configuration: Customize the configuration files according to your e-commerce needs and preferences.
 
 *4*. Database Migration: Perform database migration and initialize initial data if necessary.
 
