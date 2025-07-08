@@ -2,7 +2,7 @@
 
 A website designed to make it easier for the Balige community to order a variety of exciting food and beverages.
 
-This project is built using PHP, Boostrap, and Css , leveraging a robust and stable framework for modern web application development.
+This project is built using PHP, Boostrap, js, and Css , leveraging a robust and stable framework for modern web application development.
 
 ## User Page Features: 
 
@@ -28,16 +28,3 @@ This project is built using PHP, Boostrap, and Css , leveraging a robust and sta
     
     -Message: Contains notifications of feedback and suggestions from users.
 
-
-## How to start?
-
-    
-*1*. Clone Repository: Copy this repository into your local system.
-
-*2*. Install Dependencies: Install all required dependencies as per the instructions provided.
-
-*3*. Configuration: Customize the configuration files according to your e-commerce needs and preferences.
-
-*4*. Database Migration: Perform database migration and initialize initial data if necessary.
-
-*5*. Run Server: Run the server to start using the system
